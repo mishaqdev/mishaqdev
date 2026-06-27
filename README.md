@@ -61,7 +61,7 @@ I’m **Muhammad Ishaq**, a *Cybersecurity enthusiast* and *Red Team aspirant* w
 
 ## 💻 Tech Stack
 
-### 🛡️ Cybersecurity & OS
+### 🖥️ Operating System 
 <p align="center">
   <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
@@ -74,11 +74,62 @@ I’m **Muhammad Ishaq**, a *Cybersecurity enthusiast* and *Red Team aspirant* w
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://nmap.org/">
-    <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40"/>
-  </a>
 </p>
 
+### 🛡️ Cybersecurity 
+
+<p align="center">
+<a href="https://nmap.org/">
+    <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40"/>
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.gnu.org/software/bash/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://portswigger.net/burp">
+  <img src="https://cdn.simpleicons.org/burpsuite" width="40"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.metasploit.com/">
+  <img src="https://docs.rapid7.com/assets/img/metasploit.svg" width="40" alt="Metasploit"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/owasp-amass/amass">
+  <img src="https://raw.githubusercontent.com/owasp-amass/amass/master/images/amass_logo.png" width="40" alt="Amass"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/projectdiscovery/subfinder">
+  <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/dev/static/logo.png" width="40" alt="Subfinder"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/tomnomnom/assetfinder">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="Assetfinder"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/urbanadventurer/WhatWeb">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="WhatWeb"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.gnu.org/software/whois/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/OOjs_UI_icon_globe.svg" width="40" alt="WHOIS"/>
+</a>
+
+</p>
 ### 💻 Programming
 <p align="center">
   <a href="https://www.w3schools.com/cpp/">
